@@ -33,7 +33,7 @@
 ## Try this example on your local
 
 ```bash
-npm create refine-app@latest -- --example finefoods-antd
+npm create refine-app@latest --example finefoods-antd
 ```
 
 ## Try this example on CodeSandbox
